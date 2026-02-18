@@ -78,5 +78,5 @@ Git • GitHub • Vercel • Cloudinary
 
 • Improving system architecture skills
 • Deepening backend & database knowledge
-• Seeking Full-Stack Developer opportunities
+• Seeking Developer opportunities
 
