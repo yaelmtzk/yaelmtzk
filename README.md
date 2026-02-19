@@ -1,7 +1,7 @@
 👋 Hi, I'm Yael Matzek
 
 Full-Stack Web Developer
-JavaScript • React • Node.js • MongoDB • MySQL
+JavaScript • React • Node.js • MongoDB
 
 I build interactive web applications, browser games, and full-stack systems with clean architecture and scalable design.
 
